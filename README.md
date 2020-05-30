@@ -12,6 +12,6 @@ In the final plot, notice that y is periodic, but it's not a simple sine wave. I
 A Fourier transform is used to gain information about the frequency content of the signal. The location of the dominant frequencies will show what notes are contained in the chord.
 
 ## Graph Generated
-![Graph Generated]()
+![Graph Generated](https://github.com/ashshekhar/audio-frequency/blob/master/final-graph.png)
 
 
